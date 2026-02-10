@@ -1,30 +1,33 @@
-## 👋 ¡Hola! Soy Gastón Villafañe
+## 👋 Hi! I’m Gastón Villafañe
 
-🎓 Estudiante de la carrera de **Física** en el [Instituto Balseiro](https://www.ib.edu.ar/), **CNEA – Universidad Nacional de Cuyo**  
-🔬 Actualmente trabajando en el grupo **FIEstin** (Física Estadística e Interdisciplinaria)
-
----
-
-### 🧠 Investigación
-
-Me dedico a la **física computacional y estadística**, con un enfoque particular en:
-
-> 🧮 El estudio de **sistemas económicos complejos**, donde utilizo **agentes con reglas sencillas** para emular comportamientos del mercado real.
+🎓 **Bachelor’s Degree in Physics** from the [Instituto Balseiro](https://www.ib.edu.ar/),  
+**CNEA – National University of Cuyo**  
+🔬 Currently working in the **FIEstin** group (Statistical and Interdisciplinary Physics)
 
 ---
 
-### 📬 Contacto
+### 🧠 Research
+
+I work in **computational and statistical physics**, with a particular focus on:
+
+> 🧮 The study of **complex economic systems**, using **agents with simple rules** to emulate real-market behavior.
+
+---
+
+### 📬 Contact
 
 📧 gaston.villafane@ib.edu.ar  
 📍 Bariloche, Argentina  
 
 ---
 
-### 💡 Más sobre mí
+### 💡 More About Me
 
-- 🖥️ Apasionado por la simulación numérica, la ciencia de datos y los modelos emergentes.
-- 🤝 Abierto a colaboraciones en temas relacionados con física, economía y simulaciones de agentes.
+- 🖥️ Passionate about numerical simulations, data science, and emergent models.
+- 🤝 Open to collaborations on topics related to physics, economics, and agent-based simulations.
+- 🎲 Also a *Dungeons & Dragons* master and an **Adeptus Mechanicus** enthusiast, slowly building a **1000+ point** army.
 
 ---
 
-¡Gracias por visitar mi perfil! ⭐
+Thanks for visiting my profile! ⭐
+
