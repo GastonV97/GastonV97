@@ -1,7 +1,6 @@
 ## 👋 Hi! I’m Gastón Villafañe
 
-🎓 **Bachelor’s Degree in Physics** from the [Instituto Balseiro](https://www.ib.edu.ar/),  
-**CNEA – National University of Cuyo**  
+🎓 **Bachelor’s Degree in Physics** from the [Instituto Balseiro](https://www.ib.edu.ar/),  **CNEA – National University of Cuyo**  
 🔬 Currently working in the **FIEstin** group (Statistical and Interdisciplinary Physics)
 
 ---
